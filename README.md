@@ -29,7 +29,7 @@ DashFusion/
 │   │   ├── text_encoder.py        # text encoder
 │   │   └── vision_encoder.py      # vision encoder
 │   ├── result/             # save final results
-│   ├── config.py           # save final results
+│   ├── config.py           # hyperparameter & setting
 │   ├── main.py             # main.py
 │   ├── train.py            # train pipleine    
 │   └── utils.py            # utils
