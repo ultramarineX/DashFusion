@@ -1,6 +1,6 @@
 # DashFusion
 
-Code for the paper "DashFusion: Dual-stream Alignment with Hierarchical Bottleneck Fusion for Multimodal Sentiment Analysis". [paper](https://ieeexplore.ieee.org/document/11040049)
+Code for the paper "**DashFusion: Dual-stream Alignment with Hierarchical Bottleneck Fusion for Multimodal Sentiment Analysis**". [paper](https://ieeexplore.ieee.org/document/11040049)
 
 ## ✨ Overview
 
@@ -20,7 +20,7 @@ DashFusion/
 │   │   ├── mosi.py
 │   │   ├── mosei.py          
 │   │   └── sims.py
-│   ├── logs/               # save training logs
+│   ├── log/                # save training logs
 │   ├── model/
 │   │   ├── audio_encoder.py       # audio encoder 
 │   │   ├── dashfusion.py          # whole dashfuison model
@@ -28,7 +28,7 @@ DashFusion/
 │   │   ├── MLP.py                 # projector & classifier
 │   │   ├── text_encoder.py        # text encoder
 │   │   └── vision_encoder.py      # vision encoder
-│   ├── results/            # save final results
+│   ├── result/             # save final results
 │   ├── config.py           # save final results
 │   ├── main.py             # main.py
 │   ├── train.py            # train pipleine    
