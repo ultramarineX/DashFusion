@@ -6,7 +6,7 @@ Code for the paper "DashFusion: Dual-stream Alignment with Hierarchical Bottlene
 
 **DashFusion** is a novel framework for multimodal sentiment analysis (MSA), which contains dual-stream alignment with hierarchical bottleneck fusion. First, the dual-stream alignment module synchronizes multimodal features through temporal and semantic alignment. Temporal alignment employs cross-modal attention (CA) to establish frame-level correspondences among multimodal sequences. Semantic alignment ensures consistency across the feature space through contrastive learning. Second, supervised contrastive learning (SCL) leverages label information to refine the modality features. Finally, hierarchical bottleneck fusion (HBF) progressively integrates multimodal information through compressed bottleneck tokens, which achieves a balance between performance and computational efficiency.
 
-![framework](figure\framework.png)
+![framework](figure/framework.png)
 
 ## 📌 Repo Structure
 
