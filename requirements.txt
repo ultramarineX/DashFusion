@@ -1,0 +1,12 @@
+pytorch-metric-learning==0.9.99
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
+transformers==4.30
+einops==0.7.0
+tqdm
+numpy
+pandas
+math
+matplotlib
+scikit-learn
