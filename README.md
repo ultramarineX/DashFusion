@@ -1,4 +1,4 @@
-# DashFusion
+# DashFusion: Dual-stream Alignment with Hierarchical Bottleneck Fusion for Multimodal Sentiment Analysis (IEEE T-NNLS 2025)
 
 Code for the paper "**DashFusion: Dual-stream Alignment with Hierarchical Bottleneck Fusion for Multimodal Sentiment Analysis**". [paper](https://ieeexplore.ieee.org/document/11040049)
 
